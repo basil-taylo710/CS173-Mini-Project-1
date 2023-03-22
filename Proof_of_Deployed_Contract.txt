@@ -1,0 +1,2 @@
+Testnet: Limanet
+Contract address: KT18jv7yxW2fiLR9fVSX7K5AqB3BA2kGqm8A
